@@ -1,3 +1,8 @@
 # 2020_C-plus_plus_God5
-#제목  
-##두번찌
+
+
+#C++ code works
+
+###(c basic ~ c++ class final)
+
+
