@@ -1,9 +1,12 @@
 # C++ source code document
-##### WEEK 2~4 : C에 기반을둔 기본 문법 
+##### 1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍
+##### 2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
+##### 3. WEEK 6 : C++ NAMESPACE AND 구조체
+##### 4. WEEK 7~10 : C++ 핵심 CLASS (!)
 
-**C++ 학습내용을 저장**
+### **C++ 학습내용을 저장**
 
-- WEEK 2~4 : C에 기반을둔 기본 문법 
+##### - WEEK 2~4 : C에 기반을둔 기본 프로그래밍
 
 ***visual과 달리 exe프로그램을  따로 실행했을 때 결과값이 나왔지만 바로 종료되버리는 상황이 있었습니다. return 0; 전에 system(“pause”) 추가로 해결하였습니다.**
 
@@ -94,12 +97,12 @@ sqrt와 pow를 사용함으로 써 손쉽게 수학공식을 계산할수있었�
 
 
 
-- WEEK 5 : 2~4주차 내용의 심화
+##### - WEEK 5 :  BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
 
 
-- WEEK 6 : C++ NAMESPACE AND 구조체
+##### - WEEK 6 : C++ NAMESPACE AND 구조체
 
 
-- WEEK 7~10 : C++ 핵심 CLASS 
+##### - WEEK 7~10 : C++ 핵심 CLASS (!중요)
 
 
