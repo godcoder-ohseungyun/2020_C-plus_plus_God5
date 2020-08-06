@@ -1,24 +1,17 @@
-# C++ source code document
-
-
-#### 주제:바로가기
-
+# C++ source code document<br/>
+#### 주제:바로가기<br/><br/>
 ##### 1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍
 ##### 2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
 ##### 3. WEEK 6 : C++ NAMESPACE AND 구조체
-##### 4. WEEK 7~10 : C++ 핵심 CLASS (!)
+##### 4. WEEK 7~10 : C++ 핵심 CLASS (!)<br/><br/><br/>
+### **C++ 학습내용을 저장**  <br/><br/><br/>
+#### - WEEK 2~4 : C에 기반을둔 기본 프로그래밍 <br/><br/> 
+  
 
-
-
-
-### **C++ 학습내용을 저장**
-
-
-
-##### - WEEK 2~4 : C에 기반을둔 기본 프로그래밍
-
-***visual과 달리 exe프로그램을  따로 실행했을 때 결과값이 나왔지만 바로 종료되버리는 상황이 있었습니다. return 0; 전에 system(“pause”) 추가로 해결하였습니다.**
-
+***visual과 달리 exe프로그램을  따로 실행했을 때 결과값이 나왔지만 바로 종료되버리는 상황이 있었습니다. return 0; 전에 system(“pause”) 추가로 해결하였습니다.**  
+  
+  
+  
 **7번 cm로 표현된 키를 인치와 피트로 변환하는 프로그램(1) 및 인치와 피트로 표현된 키를 cm으로 변환하는 프로그램(2).**  
 
 개요)
@@ -106,12 +99,12 @@ sqrt와 pow를 사용함으로 써 손쉽게 수학공식을 계산할수있었�
 
 
 
-##### - WEEK 5 :  BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
+#### - WEEK 5 :  BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
 
 
-##### - WEEK 6 : C++ NAMESPACE AND 구조체
+#### - WEEK 6 : C++ NAMESPACE AND 구조체
 
 
-##### - WEEK 7~10 : C++ 핵심 CLASS (!중요)
+#### - WEEK 7~10 : C++ 핵심 CLASS (!중요)
 
 
