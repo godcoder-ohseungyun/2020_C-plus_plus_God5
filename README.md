@@ -393,13 +393,13 @@ main에서 변수 2개를 선언해 맴버변수에 그 값을 입력시킨다. 
 + [위로가기](#0)
 
 **개요**<br/>
-문제 풀이에 이용할 사항과 주의사항:<br/>
-class shape 맴버변수 x,y일때<br/>
-shape(int ax,int ay):x(ax),y(ay){}//부모<br/>
-Rectangle(int x=0,int y):shape(x,y){}//자손<br/>
-자손class Rectangle은 초기화를 이용하여  부모class shape를 호출하는데 호출이 없으면 default 생성자를 자동 호출하기 때문에 매개변수를 이용하는 경우 무조건 :shape(x,y)를 활용해야한다.<br/>
-자손은 부모클래스의 맴버를 사용함으로써 상속은 중복을 줄여준다 but private는 접근자,설정자 setget으로 접근해야한다. [protected]는 자손클래스만 사용할 수 있다.<br/>
-overiding 즉 재정의: 자손클래스에서 부모클래스에있는 함수를 재정의 하는 것을 이용한다. 이때 두 함수의 이름은 무조건 같아야한다.(overloading과 혼동 x)<br/>
++ 문제 풀이에 이용할 사항과 주의사항:<br/>
++ class shape 맴버변수 x,y일때<br/>
++ shape(int ax,int ay):x(ax),y(ay){}//부모<br/>
++ Rectangle(int x=0,int y):shape(x,y){}//자손<br/>
++ 자손class Rectangle은 초기화를 이용하여  부모class shape를 호출하는데 호출이 없으면 default 생성자를 자동 호출하기 때문에 매개변수를 이용하는 경우 무조건 :shape(x,y)를 활용해야한다.<br/>
++ 자손은 부모클래스의 맴버를 사용함으로써 상속은 중복을 줄여준다 but private는 접근자,설정자 setget으로 접근해야한다. [protected]는 자손클래스만 사용할 수 있다.<br/>
++ **overiding** 즉 재정의: 자손클래스에서 부모클래스에있는 함수를 재정의 하는 것을 이용한다. 이때 두 함수의 이름은 무조건 같아야한다.(overloading과 혼동 x)<br/>
 위 사항들을 기반으로 아래 문제들을 풀이한다.<br/>
 
 **2. person클래스를 만들고 이를 상속받는 customer클래스를 생성하라.**
