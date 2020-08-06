@@ -1,12 +1,13 @@
 # C++ source code document<br/>
 #### 주제:바로가기<br/><br/>
-##### [1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍](#3)
-##### [2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)](####---WEEK-5)
+##### [1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍](#1)
+##### [2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)](#2)
 
-##### 3. WEEK 6 : C++ NAMESPACE AND 구조체
-##### 4. WEEK 7~10 : C++ 핵심 CLASS (!)<br/><br/><br/>
+##### [3. WEEK 6 : C++ NAMESPACE AND 구조체](#3)
+##### [4. WEEK 7~10 : C++ 핵심 CLASS (!)](#4)<br/><br/><br/>
 ### **C++ 학습내용을 저장**  <br/><br/><br/>
-#### - WEEK 2~4 : C에 기반을둔 기본 프로그래밍 <br/><br/> 
+# 1
+#### WEEK 2~4 : C에 기반을둔 기본 프로그래밍 <br/><br/> 
   
 
 ***visual과 달리 exe프로그램을  따로 실행했을 때 결과값이 나왔지만 바로 종료되버리는 상황이 있었습니다. return 0; 전에 system(“pause”) 추가로 해결하였습니다.**  
@@ -96,18 +97,17 @@ goto문을 사용하여 잘못입력했을 때 다시 실행하는 불편함을 
 실행결과)
 
 고찰)
-sqrt와 pow를 사용함으로 써 손쉽게 수학공식을 계산할수있었고 cmath라이브러리가 유용하다는 것을 느낄수있었다.
+sqrt와 pow를 사용함으로 써 손쉽게 수학공식을 계산할수있었고 cmath라이브러리가 유용하다는 것을 느낄수있었다.<br/><br/><br/>
 
 
-
-#### - WEEK 5 :  BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
-
-
-#### - WEEK 6 : C++ NAMESPACE AND 구조체
-
-
-#### - WEEK 7~10 : C++ 핵심 CLASS (!중요)
+# 2
+#### - WEEK 5 :  BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)<br/><br/><br/>
 
 # 3
+#### - WEEK 6 : C++ NAMESPACE AND 구조체<br/><br/><br/> 
+
+# 4
+#### - WEEK 7~10 : C++ 핵심 CLASS (!중요)<br/><br/><br/> 
+
 
 
