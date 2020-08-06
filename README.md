@@ -1,4 +1,5 @@
 # C++ source code document
+##### WEEK 2~4 : C에 기반을둔 기본 문법 
 
 **C++ 학습내용을 저장**
 
