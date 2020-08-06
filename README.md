@@ -1,10 +1,19 @@
 # C++ source code document
+
+
+#### 주제:바로가기
+
 ##### 1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍
 ##### 2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)
 ##### 3. WEEK 6 : C++ NAMESPACE AND 구조체
 ##### 4. WEEK 7~10 : C++ 핵심 CLASS (!)
 
+
+
+
 ### **C++ 학습내용을 저장**
+
+
 
 ##### - WEEK 2~4 : C에 기반을둔 기본 프로그래밍
 
