@@ -1,6 +1,6 @@
 # C++ source code document<br/>
 #### 주제:바로가기<br/><br/>
-##### [1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍](####---WEEK-2~4)
+##### [1. WEEK 2~4 : C에 기반을둔 기본 프로그래밍](#3)
 ##### [2. WEEK 5 : BASIC 심화(무작위 딱정벌레의 이동 COUNT & MARK)](####---WEEK-5)
 
 ##### 3. WEEK 6 : C++ NAMESPACE AND 구조체
@@ -107,5 +107,7 @@ sqrt와 pow를 사용함으로 써 손쉽게 수학공식을 계산할수있었�
 
 
 #### - WEEK 7~10 : C++ 핵심 CLASS (!중요)
+
+# 3
 
 
